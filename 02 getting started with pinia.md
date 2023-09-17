@@ -1,1 +1,5 @@
-# Vue 3 State Management with Pinia
+# Getting Started with Pinia
+
+>   State:  Data that describes the current state of your application.
+
+
